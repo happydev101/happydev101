@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Aashir Khan</h1>
+<h1 align="center">Hi 👋, I'm Yamate </h1>
 <h3 align="center">Full Stack Engineer</h3>
 
 <!--- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /> -->
