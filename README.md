@@ -14,9 +14,7 @@
 
 - 💬 Ask me about **MERN, MEAN, Docker**
 
-- 📫 How to reach me **yeungwongdev101@gmail.com**
-
-<h2> Welcome 👋 , I'm Yeung Wong</h2>
+<h2> Welcome 👋</h2>
 
 I'm a software developer, specializing in building exceptional websites and mobile applications, and everything in between.
 
